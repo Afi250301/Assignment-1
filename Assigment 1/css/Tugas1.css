@@ -1,0 +1,59 @@
+#Menu{
+   text-align: right;
+   font-family: Arial, Helvetica, sans-serif;
+   margin: 50px;   
+}
+.nav.justify-content-end{
+    background-color: white;
+    box-shadow: 0px 7px 10px 2px rgba(224, 220, 220, 0.982);
+}
+.table-borderless{
+    background-color: white;
+    margin-left: 50px;
+    border: 0 solid ;
+   
+}
+.form{
+    background-color: white;
+    margin-left: 50px;
+    border: solid white;
+}
+
+.btn-primary{
+    background-color: blue;
+    width: 100px;
+    height: 50px;
+    font-size: 10pt;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn-outline-success{
+    background-color: white;
+    width: 100px;
+    height: 50px;
+    font-size: 10pt;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2 green;
+}
+.tabel1{
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nama{  font-weight: bold;}
+.tabel2{
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16pt;   
+}
+.tabel3{
+    width: 1000px;
+    font-family: Arial, Helvetica, sans-serif;   
+    font-size: 16pt;
+}
+#formGroupExampleInput7{ background-color: green; color: white;}
+.form-label{font-weight: bold;}
+#formGroupExampleInput7{font-weight: bold;}
+
+
+
